@@ -1,0 +1,33 @@
+CACHE MANIFEST
+# Version 9 25/10/2014
+
+CACHE:
+../codebase/dhtmlx.css
+../JS/dhtmlx.js
+../JS/Tools.js
+../JS/WebReport.js
+
+../imgs/ico_pdf_32.gif
+../imgs/close.gif
+../imgs/close_dis.gif
+../imgs/clear.gif
+../imgs/save.gif
+../imgs/save_dis.gif
+../imgs/dyn_down.gif
+../imgs/new.gif
+../imgs/new_dis.gif
+../imgs/folder.gif
+../imgs/book.gif
+../imgs/paging_rows.gif
+../imgs/print.gif
+../imgs/print_dis.gif
+../imgs/bug_reporting.gif
+../imgs/bug_reporting_dis.gif
+../imgs/about.gif
+../imgs/about_dis.gif
+../imgs/pdf.png
+../imgs/Excel.png
+../imgs/close.png
+
+NETWORK:
+*
